@@ -1,0 +1,53 @@
+body {
+    background-color:rgb(166, 178, 225);
+}
+
+#mainNav {
+    background-color: rgb(84, 115, 206);
+}
+
+.footer {
+    background-color: rgb(84,115,206);
+
+}
+
+.text-faded {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+.bg-faded {
+    background-color:rgb(138, 154, 216);
+}
+
+.text-primary {
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center
+    
+}
+
+span {
+    font-weight:bolder;
+}
+
+ul {
+    text-align:left;
+    font-style:italic
+}
+
+li {
+    text-align:left;
+    font-weight:italic;
+}
+
+ol {
+    text-align:left;
+}
+
+h6 {
+    font-weight:bolder;
+}
